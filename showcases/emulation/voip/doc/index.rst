@@ -58,7 +58,7 @@ arbitrary; INET has support for dividing the network at other levels of the
 protocol stack; for example, at the link layer.
 
 For an more information on emulation
-in INET, read the TODO section in the User's Guide.
+in INET, read the :doc:`Emulation section </users-guide/ch-emulation>` in the User's Guide.
 
 The Simulation Setup
 --------------------
