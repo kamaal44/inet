@@ -15,7 +15,8 @@ INET has various modules which facilitate this interfacing, you can read about t
 In this scenario, we'll use a real video application to stream a video file to another real video application.
 
 Note that this showcase requires the ``Emulation`` feature of the INET Framework to be turned on
-(it's off by default), and it only runs on Linux.
+(it's off by default), and it only runs on Linux. For an introduction to emulation
+in INET, read the TODO section in the User's Guide.
 
 | INET version: ``4.2``
 | Source files location: `inet/showcases/emulation/videostreaming <https://github.com/inet-framework/inet/tree/master/showcases/emulation/videostreaming>`__
